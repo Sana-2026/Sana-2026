@@ -34,7 +34,6 @@ and learning how infrastructure works behind the scenes.
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 
 ## 💬 Random Dev Quote
 <p align="center">
@@ -45,5 +44,5 @@ and learning how infrastructure works behind the scenes.
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 💼 LinkedIn:www.linkedin.com/in/sana-shaik-94b3333a8
 - 📧 Email: freelancersana24@gmail.com
