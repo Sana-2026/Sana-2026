@@ -21,7 +21,7 @@ and learning how infrastructure works behind the scenes.
 ---
 
 ## 💭 Thoughts
-> “Every successful build hides a story of a developer losing patience at 2 AM.”
+> “Keep learning, keep building, keep growing.”
 
 ---
 
