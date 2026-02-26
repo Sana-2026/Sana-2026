@@ -1,38 +1,47 @@
 <h1 align="center">Hi there 👋, I'm Sana Shaik</h1>
 
 <p align="center">
-🚀 Aspiring DevOps Engineer | 🐧 Linux Enthusiast | ☁️ Cloud Learner
+🚀 DevOps & Cloud Engineer (Career Transition)
 </p>
 
 ---
+💻 **Java experience** | BFSI domain
+🚀 Transitioning into **DevOps & Cloud Engineering**  
+📆 Actively building discipline through **#90DaysOfDevOps**
 
-🎯 I’m passionate about building reliable systems, automating workflows,  
-and learning how infrastructure works behind the scenes.
+## 🧰 Skills & Tools (Hands-on Learning)
 
-🌱 Currently learning:
-- Linux Administration
-- Git & GitHub (Internals)
-- Shell Scripting
-- Networking Fundamentals
-- AWS (EC2, EBS – Beginner)
-
-💼 DevOps Learner | #90DaysOfDevOps
-
----
-
-## 💭 Thoughts
-> “Keep learning, keep building, keep growing.”
+| Category | Technologies |
+|--------|-------------|
+| **Foundation** | Linux, Bash, Networking Fundamentals |
+| **Cloud** | AWS |
+| **Containers & Orchestration** | Docker, Kubernetes |
+| **Infrastructure as Code** | Terraform |
+| **CI/CD Pipelines** | Jenkins |
+| **Version Control** | Git, GitHub |
 
 ---
 
-## 🔧 Skills & Tools
-- Linux (Ubuntu)
-- Git & GitHub
-- Bash / Shell Scripting
-- Networking Basics
-- AWS (Learning Phase)
+## 🛠️ What I’m Working On
+
+- Designing cloud infrastructure on AWS  
+- Containerizing applications using Docker  
+- Deploying and managing workloads on Kubernetes  
+- Building CI/CD pipelines with Jenkins  
+- Automating infrastructure using Terraform  
 
 ---
+
+## 📌 Learning Journey
+
+🚀 **#90DaysOfDevOps Challenge**  
+Documenting daily learnings, hands-on labs, and real-world DevOps scenarios.
+
+---
+
+## 🎯 Career Goal
+
+To transition into a **DevOps / Cloud Engineer** role by combining **BFSI domain expertise** with **modern DevOps and cloud practices**.
 
 
 ## 💬 Random Dev Quote
@@ -46,3 +55,9 @@ and learning how infrastructure works behind the scenes.
 ## 🤝 Connect With Me
 - 💼 LinkedIn:www.linkedin.com/in/sana-shaik-94b3333a8
 - 📧 Email: freelancersana24@gmail.com
+  
+- Open to DevOps collaborations and learning communities  
+- Passionate about reliability, automation, and growth  
+
+
+⭐ Explore my repositories to follow my DevOps journey!
