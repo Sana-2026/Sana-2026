@@ -11,7 +11,7 @@
 
 📆 Actively building discipline through **#90DaysOfDevOps**
 
-## 🧰 Skills & Tools (Hands-on Learning)
+## 🧰 Skills & Tools 
 
 | Category | Technologies |
 |--------|-------------|
