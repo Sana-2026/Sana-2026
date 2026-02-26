@@ -5,13 +5,16 @@
 </p>
 
 ---
+
+### 👨‍💻 About Me
+
 💻 **Java experience** | BFSI domain
 
 🚀 Transitioning into **DevOps & Cloud Engineering**  
 
 📆 Actively building discipline through **#90DaysOfDevOps**
 
-## 🧰 Skills & Tools 
+### 🧰 Skills & Tools 
 
 | Category | Technologies |
 |--------|-------------|
@@ -24,7 +27,7 @@
 
 ---
 
-## 🛠️ What I’m Working On
+### 🛠️ What I’m Working On
 
 - Designing cloud infrastructure on AWS  
 - Containerizing applications using Docker  
@@ -34,19 +37,19 @@
 
 ---
 
-## 📌 Learning Journey
+### 📌 Learning Journey
 
 🚀 **#90DaysOfDevOps Challenge**  
 Documenting daily learnings, hands-on labs, and real-world DevOps scenarios.
 
 ---
 
-## 🎯 Career Goal
+### 🎯 Career Goal
 
 To transition into a **DevOps / Cloud Engineer** role by combining **BFSI domain expertise** with **modern DevOps and cloud practices**.
 
 
-## 💬 Random Dev Quote
+### 💬 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
@@ -54,7 +57,7 @@ To transition into a **DevOps / Cloud Engineer** role by combining **BFSI domain
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 - 💼 LinkedIn:www.linkedin.com/in/sana-shaik-94b3333a8
 - 📧 Email: freelancersana24@gmail.com
   
