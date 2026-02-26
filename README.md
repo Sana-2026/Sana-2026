@@ -14,6 +14,8 @@
 
 💻 Production-grade Java experience in BFSI domain
 
+---
+
 ### 🧰 Skills & Tools 
 
 | Category | Technologies |
