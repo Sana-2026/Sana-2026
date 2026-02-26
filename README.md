@@ -61,8 +61,7 @@ To transition into a **DevOps / Cloud Engineer** role by combining **BFSI domain
 - 💼 LinkedIn:www.linkedin.com/in/sana-shaik-94b3333a8
 - 📧 Email: freelancersana24@gmail.com
   
+⭐ Explore my repositories to follow my DevOps journey!
+
 - Open to DevOps collaborations and learning communities  
 - Passionate about reliability, automation, and growth  
-
-
-⭐ Explore my repositories to follow my DevOps journey!
