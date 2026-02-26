@@ -6,7 +6,9 @@
 
 ---
 💻 **Java experience** | BFSI domain
+
 🚀 Transitioning into **DevOps & Cloud Engineering**  
+
 📆 Actively building discipline through **#90DaysOfDevOps**
 
 ## 🧰 Skills & Tools (Hands-on Learning)
