@@ -49,7 +49,7 @@ Documenting daily learnings, hands-on labs, and real-world DevOps scenarios.
 To transition into a **DevOps / Cloud Engineer** role by combining **BFSI domain expertise** with **modern DevOps and cloud practices**.
 
 
-### 💬 Random Dev Quote
+### 💬 DevOps Mindset
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
