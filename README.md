@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 
-💻 **Java experience** | BFSI domain
-
 🚀 Transitioning into **DevOps & Cloud Engineering**  
 
 📆 Actively building discipline through **#90DaysOfDevOps**
+
+💻 Production-grade Java experience in BFSI domain
 
 ### 🧰 Skills & Tools 
 
